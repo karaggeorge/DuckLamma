@@ -1,4 +1,4 @@
-# DuckLama
+# DuckLamma
 A simple game built in Java using Swing and awt
 
 ## Installation 
